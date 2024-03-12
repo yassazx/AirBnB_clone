@@ -67,9 +67,5 @@ DIRECTORIES | CONTENT
 
 - Github:  [yassazx](https://github.com/yassazx)
 
-## CONTRIBUTORS IMAGES
 
-<a href="https://github.com/NUCCASJNR/AirBnB_clone/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=NUCCASJNR/AirBnB_clone" />
-  </a>
 
